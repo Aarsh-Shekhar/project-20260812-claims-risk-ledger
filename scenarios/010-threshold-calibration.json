@@ -1,0 +1,7 @@
+{
+  "name": "threshold calibration",
+  "domain": "healthcare finance",
+  "score_floor": 0.7,
+  "review_window_hours": 24,
+  "expected_action": "review"
+}
